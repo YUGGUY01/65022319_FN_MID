@@ -1,0 +1,273 @@
+#topnav{
+    background-color: rgb(92, 171, 250);
+
+}
+
+#article{
+    background-color: rgb(163, 203, 238);
+    margin: 5px;
+    width: 1030px;
+    height: 100px;
+    float: left;
+    
+}
+
+#leftside{
+    background-color: grey;
+    
+}
+
+#childBlock1{
+    background-color: red;
+    width: 200px;
+    height: 80px;
+    float: inherit;
+    text-align: center;
+    margin: 5px;
+    font-size: 15px;
+}
+
+#childBlock2{
+    background-color: green;
+    width: 200px;
+    height: 80px;
+    float: inherit;
+    text-align: center;
+    margin: 5px;
+    font-size: 15px;
+}
+
+#childBlock3{
+    background-color: red;
+    width: 200px;
+    height: 80px;
+    float: inherit;
+    text-align: center;
+    margin: 5px;
+    font-size: 15px;
+}
+
+#childBlock4{
+    background-color: green;
+    width: 200px;
+    height: 80px;
+    float: inherit;
+    text-align: center;
+    margin: 5px;
+    font-size: 15px;
+}
+
+#childBlock5{
+    text-align: right;
+    margin: 5px;
+    font-size: 15px;
+}
+
+#article2{
+    background-color: rgb(0, 0, 0);
+    margin: 5px;
+    width: 1030px;
+    height: 100px;
+    float: left;
+}
+#childBlock6{
+    background-color: rgb(210, 113, 207);
+    margin: 10px;
+    width: 100px;
+    height: 80px;
+    float: inherit;
+    text-align: center;
+    font-size: 15px;
+    
+}
+#childBlock7{
+    background-color: rgb(113, 210, 152);
+    width: 515px;
+    height: 100px;
+    float: left;
+    text-align: right;
+    font-size: 15px;
+    
+}
+#childBlock9{
+    background-color: rgb(113, 210, 152);
+    margin: 10px;
+    width: 100px;
+    height: 80px;
+    float: inherit;
+    text-align: center;
+    font-size: 15px;
+}
+#childBlock8{
+    background-color: rgb(210, 113, 207);
+    width: 515px;
+    height: 100px;
+    float: right;
+    text-align: left;
+    font-size: 15px;
+}
+
+#RS{
+    background-color: pink;
+    height: 450px;
+    width: 200px;
+    float: right;
+    text-align: center;
+    border:solid black;
+    margin-bottom: 10px;
+}
+
+#footer{
+    background-color: pink;
+    clear: both;
+    text-align: center;
+    height: 50px;
+    padding: 5px;
+    
+}
+
+#a{
+    background-color: peachpuff;
+    height: 80px;
+    width: 160px;
+    border: solid black;
+    float: right;
+    margin-bottom: 5px;
+    font-size: 12px;
+}
+#b{
+    background-color: peachpuff;
+    height: 80px;
+    width: 160px;
+    border: solid black;
+    float: right;
+    margin-bottom: 5px;
+    font-size: 12px;
+}
+#c{
+    background-color: peachpuff;
+    height: 80px;
+    width: 160px;
+    border: solid black;
+    float: right;
+    margin-bottom: 5px;
+    font-size: 12px;
+}
+#d{
+    background-color: peachpuff;
+    height: 80px;
+    width: 160px;
+    border: solid black;
+    float: right;
+    margin-bottom: 5px;
+    font-size: 12px;
+}
+#e{
+    height: 50px;
+    width: 120px;
+    border: solid black;
+    float: inherit;
+    margin-right: 20px;
+    
+}
+#f{
+    height: 50px;
+    width: 120px;
+    border: solid black;
+    float: inherit;
+    margin-right: 20px;
+    
+}
+
+
+#mid{
+    background-color: rgb(181, 178, 178);
+    height: 450px;
+    width: 200px;
+    float: right;
+    border:solid black ;
+}
+
+#mid1{
+    margin: 10px;
+
+}
+#mid2{
+    margin: 10px;
+
+}
+#mid3{
+    margin: 10px;
+
+}
+
+#x{
+    background-color: rgb(165, 203, 233);
+    text-align: right;
+    height: 95px;
+    width: 160px;
+    margin: 10px;
+    font-size: 12px;
+    
+}
+
+
+#y{
+    background-color: rgb(165, 203, 233);
+    text-align: right;
+    height: 95px;
+    width: 160px;
+    margin: 10px;
+    font-size: 12px;
+}
+
+#z{
+    background-color: rgb(165, 203, 233);
+    text-align: right;
+    height: 95px;
+    width: 160px;
+    margin: 10px;
+    font-size: 12px;
+}
+
+#one{
+    background-color: red;
+    height: 60px;
+    width: 40px;
+    margin: 5px;
+    font-size: 12px;
+    text-align: center;
+}
+
+#two{
+    background-color: red;
+    height: 60px;
+    width: 40px;
+    margin: 5px;
+    font-size: 12px;
+    text-align: center;
+}
+#three{
+    background-color: red;
+    height: 60px;
+    width: 40px;
+    margin: 5px;
+    font-size: 12px;
+    text-align: center;
+}
+
+#cl1{
+    background-color: rgb(224, 224, 143);
+    height: 7px;
+    margin-bottom: 5px;
+}
+#cl2{
+    background-color: rgb(224, 224, 143);
+    height: 7px;
+    margin-bottom: 5px;
+}
+#cl3{
+    background-color: rgb(224, 224, 143);
+    height: 7px;
+    margin-bottom: 5px;
+}
